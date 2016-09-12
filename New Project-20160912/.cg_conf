@@ -1,0 +1,1 @@
+{"id":"ada","ext":"adb","version":"GNATMAKE v5.3.1","compile":"gnatmake -o hello *.adb","execute":"hello","preview":"","command":"","file":"/home/cg/src/samples/hello.adb","url":"compile_ada_online.php","mode":"ada"}
