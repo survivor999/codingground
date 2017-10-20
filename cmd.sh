@@ -12,9 +12,12 @@
 #  must do git add cmd.sh each time you change it.
 #    otherwise you have 2 versions of it .
 # git status -s  less  verbose status
-git config --global user.email  "survivor999@hotmail.com"
-git config  --global user.name  "survivor999"
-git commit -m "testing files saved." 
+
+# git config --global user.email  "survivor999@hotmail.com"
+# git config  --global user.name  "survivor999"
+# git commit -m "testing files saved." 
+
+git push origin master
 
 # to run this shell cmd file:
 # chmod 755  cmd.sh
